@@ -7,4 +7,5 @@
 ## Hasil Pekerjaan (Screenshot)
 Berikut adalah tampilan aplikasi saat dijalankan:
 
-![Screenshot Aplikasi](1prakpam.png)
+![Screenshot Aplikasi]
+<img width="287" height="638" alt="Screenshot 2026-02-08 205336" src="https://github.com/user-attachments/assets/7417bcbb-6768-43ba-9f62-be39720bec4e" />
